@@ -1,0 +1,6 @@
+{
+  "name": "Shiva Bhakti",
+  "description": "A peaceful, devotional application featuring the powerful Shiva Stuti to promote inner calm and positivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
